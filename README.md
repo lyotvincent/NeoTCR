@@ -1,5 +1,5 @@
 # NeoTCR
-http://neotcrdb.bioaimed.com
+http://neotcrdb.bioxai.cn/
 
 ### Introduction
 
